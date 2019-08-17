@@ -1,8 +1,0 @@
-Este es el ejemplo uno
-
-Lo estoy haciendo sin ayuda de platzi y de fredy
-
-Para interiorizar mi conocimientos en git
-
-Y hoy les vy a contar hacer de mi historia.
-+
